@@ -1,4 +1,4 @@
-<h1 align="center">Suraj Pawar's GitHub</h1>
+<h1 bg-color = "blue" align="center">Suraj Pawar's GitHub</h1>
 
 <p align="center">Hi 👋, I'm Suraj Pawar, a Final-Year CS Explorer passionate about coding and turning dreams into reality. 🚀</p>
 
