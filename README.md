@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraj Pawar</h1>
 <h3 align="center">Coding Dreams into Reality: Final-Year CS Explorer | Crafting Tomorrow's Tech Today 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surajpawar18&label=Profile%20views&color=0e75b6&style=flat" alt="surajpawar18" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajpawar18" alt="surajpawar18" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/stranger_sp3" target="blank"><img src="https://img.shields.io/twitter/follow/stranger_sp3?logo=twitter&style=for-the-badge" alt="stranger_sp3" /></a> </p>
 
 - 🔭 I’m currently working on **Credit Card Fraud Detection System**
