@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Suraj Pawar</h1>
 <h3 align="center">Coding Dreams into Reality: Final-Year CS Explorer | Crafting Tomorrow's Tech Today 🚀</h3>
-<img align="center"
-    src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt=""
-    width="600px">
+<img align="right"
+    src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt="coding"
+    width="400px">
     <br>
 - 🔭 I’m currently working on **Credit Card Fraud Detection System**
 
