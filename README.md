@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraj Pawar</h1>
 <h3 align="center">Coding Dreams into Reality: Final-Year CS Explorer | Crafting Tomorrow's Tech Today 🚀</h3>
 
-<p align="left"> <a href="https://twitter.com/stranger_sp3" target="blank"><img src="https://img.shields.io/twitter/follow/stranger_sp3?logo=twitter&style=for-the-badge" alt="stranger_sp3" /></a> </p>
-
 - 🔭 I’m currently working on **Credit Card Fraud Detection System**
 
 - 🌱 I’m currently learning **C#, React**
